@@ -27,7 +27,7 @@ python3 setup.py install
 ### Find information from a username
 
 ```
-toutatis -u username -s instagramsessionid
+toutatis -u apurva_mendgule -s 3915126414%3AALzPGVAvq7al8y%3A20
 ```
 
 ### Find information from an Instagram ID
